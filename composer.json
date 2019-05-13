@@ -1,0 +1,20 @@
+{
+  "name": "incredimike/woocommerce-shipment-tracking-by-note",
+  "type": "wordpress-plugin",
+  "license": "MIT",
+  "description": "Extend the WooCommerce Shipment Tracking Extension to register shipment tracking when tracking info is discovered in an order note.",
+  "homepage": "https://github.com/incredimike/woocommerce-shipment-tracking-by-note",
+  "authors": [{
+      "name": "Mike Walker",
+      "email": "mike@incredimike.com",
+      "homepage": "https://incredimike.com"
+  }],
+  "keywords": ["wordpress"],
+  "support": {
+    "issues": "https://github.com/incredimike/woocommerce-shipment-tracking-by-note/issues"
+  },
+  "require": {
+    "php": ">=5.4.0",
+    "composer/installers": "~1.0"
+  }
+}
