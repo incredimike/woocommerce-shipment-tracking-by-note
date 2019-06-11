@@ -46,7 +46,6 @@ class ShipmentTrackingByNote
 
         // If disabled, end early.
         if (!$this->enabled) {
-//            $this->log('New Note but plugin disabled. Skipping.');
             return false;
         }
 
